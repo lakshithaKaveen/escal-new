@@ -46,7 +46,7 @@ To get started, follow the following steps:
 
 1. **Clone the repository** to your local machine
 ```bash
-$ git clone https://github.com/cepdnaclk/escal-new.git
+$ git clone https://github.com/cepdnaclk/escal.ce.pdn.ac.lk.git
 ```
 
 2. **Install Jekyll**. You have two options:
